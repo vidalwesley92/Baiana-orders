@@ -88,6 +88,17 @@ def ask_quantity():
         except ValueError:
             print("\nInvalid input. Please enter a valid number.\n")
 
+
+def more_itens():
+
+
+def update_sheet():
+
+
+def calc_total_prod():
+
+
+
 def main():
     print_title()
     select_food()
